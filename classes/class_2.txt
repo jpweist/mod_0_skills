@@ -1,0 +1,15 @@
+staff
+
+name (string)
+address (string)
+pay (float)
+working (boolean)
+new
+
+add staff member (creates new staff member)
+
+name change (changes name of staff member)
+
+change pay (changes staff member pay)
+
+working (yes/no is staff member currently working)
