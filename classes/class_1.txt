@@ -1,0 +1,15 @@
+breakfast menu
+
+meal (string)
+prices (float)
+description (string)
+ingredients (array)
+kitchen inprogress (boolean)
+
+make meal (has kitchen inprogress make yes or no make meal)
+
+change price (changes the price of the meal)
+
+changes description (changes meal description)
+
+change meal (changes meal or menu item name, available, special)
