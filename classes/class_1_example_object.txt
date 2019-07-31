@@ -1,0 +1,17 @@
+classic breakfast
+
+meal: classic breakfast
+price: 9.99
+description: 2 eggs any style
+with choice of bacon or sausage,
+with toast or pancake.
+ingredients: 2 eggs, 2 strips bacon, one pancake.
+kitchen inprogress: yes 
+
+make meal (yes)
+
+change price (same price)
+
+changes description (same description)
+
+change meal (same meal)
