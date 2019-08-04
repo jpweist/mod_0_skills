@@ -27,4 +27,3 @@ server: ["Flo"]
 
 table: [7]
 
-
