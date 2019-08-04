@@ -1,21 +1,15 @@
 breakfast menu
 
-meal (string)
-prices (float)
-description (string)
-ingredients [array]
-order [array]
-kitchen inprogress (boolean)
-kitcen staff [array]
-server [array]
-order [array]
+meal: (string)
+price: (float)
+description: (string)
+ingredients: [array]
 
-table [array]
 
-make meal (has kitchen inprogress make true or false make meal)
+change meal: (changes meal name)
 
-change price (changes the price of the meal)
+change price: (changes the price of the meal)
 
-changes description (changes meal description)
+change description: (changes meal description)
 
-change meal (changes meal or menu item name, available, special)
+change ingredients: [changes the of array ingredients]
