@@ -1,13 +1,13 @@
 name: Jim Weist
 address: 123 Main Street
 pay: (4.24)
-working (yes)
+working (true)
 
 
-add staff member (new just started)
+change name ("Jim Weist")
 
-name change (new address 123 Main St)
+change address ("123 Main St")
 
-change pay (4.24 updates page)
+change pay (4.24)
 
-working (currently at work yes)
+working (true)
