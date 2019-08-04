@@ -1,4 +1,4 @@
-Employee 
+Ecdmployee 
 
 name (string)
 address (string)
