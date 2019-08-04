@@ -1,15 +1,15 @@
-Ecdmployee 
+Employee 
 
-name (string)
-address (string)
-pay (float)
-working (boolean)
+name: (string)
+address: (string)
+pay: (float)
+working: (boolean)
 
 
-addrress change (string)
+change address (string)
 
-name change (changes name of staff member)
+change name (changes name of  employee)
 
-change pay (changes staff member pay)
+change pay (changes employee pay)
 
-working (true/false is staff member currently working)
+work (true/false is employee currently working)
