@@ -7,23 +7,13 @@ price: 9.99
 description: "Two eggs made fresh to order with your choice of bacon, smoked ham or sausage patties (pork or turkey). Served with a large, whole-wheat pancake or a golden Belgian waffle."
 
 ingredients: ["2 eggs", "bacon", 
-"smoked ham", "sausage patties pork or turkey"]
+"smoked ham", "sausage patties pork", "sausage patties turkey"]
 
-order: ["2 eggs", "2 strips bacon", "1 pancake"]
 
-kitchen inprogress: true 
+change_meal: (changes meal or menu item name, available, special)
 
-make meal: true
+change_price: (changes the price of the meal)
 
-change price: false
+change_description: (changes meal description)
 
-changes description: false
-
-change meal: false
-
-kitchen staff: ["Jim"]
-
-server: ["Flo"]
-
-table: [7]
-
+change_ingredients: [array]
