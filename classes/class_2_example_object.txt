@@ -1,13 +1,13 @@
 name: Jim Weist
 address: 123 Main Street
 pay: (4.24)
-working (true)
+working: (true)
 
 
-change name ("Jim Weist")
+change name (changes name)
 
-change address ("123 Main St")
+change address (changes address)
 
-change pay (4.24)
+change pay (changes pay)
 
-working (true)
+work (changes working value true or false)
